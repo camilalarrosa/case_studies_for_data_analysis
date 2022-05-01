@@ -1,1 +1,1 @@
-# case_studies_for_data_analysis
+# study_cases_for_data_analysis
