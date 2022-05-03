@@ -1,1 +1,1 @@
-# study_cases_for_data_analysis
+# Cases to practice data analysis in Python using Jupyter Notebook
